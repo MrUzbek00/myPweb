@@ -1,14 +1,14 @@
 {
     "Images":
     [
-        {"URL":"img/1.png", "Caption":"Image 1"},
-        {"URL":"img/2.png", "Caption":"Image 2"},
-        {"URL":"img/3.png", "Caption":"Image 3"},
-        {"URL":"img/4.png", "Caption":"Image 4"},
-        {"URL":"img/5.png", "Caption":"Image 5"},
-        {"URL":"img/6.png", "Caption":"Image 6"},
-        {"URL":"img/7.png", "Caption":"Image 7"},
-        {"URL":"img/8.png", "Caption":"Image 8"},
-        {"URL":"img/9.png", "Caption":"Image 9"} 
+        {"URL":"img/1.png", "Caption":"Beautiful Sukok"},
+        {"URL":"img/2.png", "Caption":"Sukok`s Nature"},
+        {"URL":"img/3.png", "Caption":"Nature"},
+        {"URL":"img/4.png", "Caption":"2 500m above the sea level: Sukok"},
+        {"URL":"img/5.png", "Caption":"Me with moustach at the New Year party"},
+        {"URL":"img/6.png", "Caption":"A house at Kumbel"},
+        {"URL":"img/7.png", "Caption":"On the way to Kumbel"},
+        {"URL":"img/8.png", "Caption":"Me and Coleagues at Kumbel"},
+        {"URL":"img/9.png", "Caption":"Me after having fresh haircut"} 
     ]
 }
